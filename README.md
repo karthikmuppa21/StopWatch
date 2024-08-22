@@ -47,7 +47,7 @@ A simple, interactive stopwatch built with HTML, CSS, and JavaScript. This proje
 
 Here is a quick preview of how the stopwatch looks and operates:
 
-![Stopwatch Screenshot](link-to-your-screenshot.png)
+![Screenshot (122)](https://github.com/user-attachments/assets/e46ed597-a008-4d85-abc8-d9acc3203057)
 
 ## Contributing
 
