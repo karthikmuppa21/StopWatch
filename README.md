@@ -39,8 +39,8 @@ A simple, interactive stopwatch built with HTML, CSS, and JavaScript. This proje
 
 ## File Structure
 
-- `index.html` - The main HTML file containing the structure of the stopwatch.
-- `styles.css` - The CSS file for styling the stopwatch.
+- `watch.html` - The main HTML file containing the structure of the stopwatch.
+- `style.css` - The CSS file for styling the stopwatch.
 - `script.js` - The JavaScript file implementing the stopwatch functionality.
 
 ## Example
@@ -49,25 +49,7 @@ Here is a quick preview of how the stopwatch looks and operates:
 
 ![Screenshot (122)](https://github.com/user-attachments/assets/e46ed597-a008-4d85-abc8-d9acc3203057)
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and make a pull request. Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Create a new Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspiration from various web development tutorials
 - Thanks to the open-source community for tools and resources
-
-For any questions or feedback, feel free to open an issue or contact me directly.
-
-Happy coding!
