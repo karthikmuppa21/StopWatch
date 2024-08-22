@@ -1,5 +1,5 @@
 # StopWatch
-# Stopwatch Application
+# Overview
 
 A simple, interactive stopwatch built with HTML, CSS, and JavaScript. This project demonstrates basic web development techniques and the use of JavaScript for creating a functional and user-friendly stopwatch.
 
