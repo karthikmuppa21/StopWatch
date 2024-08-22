@@ -20,7 +20,7 @@ A simple, interactive stopwatch built with HTML, CSS, and JavaScript. This proje
 1. Clone the repository:
 
     ```bash
-    https://github.com/your-username/stopwatch-app.git
+    https://github.com/karthikmuppa21/StopWatch/tree/main
     ```
     
 2. Open `index.html` in your web browser.
