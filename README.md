@@ -20,16 +20,10 @@ A simple, interactive stopwatch built with HTML, CSS, and JavaScript. This proje
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/stopwatch-app.git
+    https://github.com/your-username/stopwatch-app.git
     ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd stopwatch-app
-    ```
-
-3. Open `index.html` in your web browser.
+    
+2. Open `index.html` in your web browser.
 
 ## Usage
 
